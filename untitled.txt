@@ -1,0 +1,36 @@
+Data link:
+https://www.kaggle.com/code/kerneler/starter-cafe-data-23153f33-6
+
+Data input: Sale on a daily basis
+
+Target: 
+Proposer the data visualization
+(thinking about how to improve the sale or cost by the machine learning - data analysis) - V-ing
+-> Reducing cost
+
+Restaurant Problems:
+- Optimizing ingredients 
+- Avoid food spoilage 
+- Customer habit (set menu) 
+- Which occassion of the year should we boost for advertising ?
+- Which food are the best-seller ?  - Should we concentrate on them more or finding other ways to boost the rest?
+
+
+Solution: 
+- Based on the analysis
+
+Result :
+---- Customer habit (set menu) 
+*** For April/2010 (Each month )
+- Best article sale in particular time
+- The proportion of sale on a monthly basis
+- The total income
+- The proportion income out of the year 2010 (10.15%)
+
+Each quartier 
+
+*** For 2010
+
+
+NewsPapers:
+https://uu.diva-portal.org/smash/get/diva2:1714410/FULLTEXT01.pdf
