@@ -1,5 +1,7 @@
 Data link:
 https://www.kaggle.com/code/kerneler/starter-cafe-data-23153f33-6
+NewsPapers:
+https://uu.diva-portal.org/smash/get/diva2:1714410/FULLTEXT01.pdf
 
 Data input: Sale on a daily basis
 
@@ -8,13 +10,20 @@ Proposer the data visualization
 (thinking about how to improve the sale or cost by the machine learning - data analysis) - V-ing
 -> Reducing cost
 
+
 Restaurant Problems:
 - Optimizing ingredients 
 - Avoid food spoilage 
 - Customer habit (set menu) 
 - Which occassion of the year should we boost for advertising ?
-- Which food are the best-seller ?  - Should we concentrate on them more or finding other ways to boost the rest?
+- Which items are the best-seller ?  
+- Should we concentrate on them more or finding other ways to boost the rest?
 
+Results:
+- Best items sale of month or years (file "Best sold items in 2010.txt")
+- Best items according to its sale (file "Best sold items in 2010.csv")
+- The proportion of monthly sale based on categories (file "Images.png"- PieChart)
+- The proportion of each items based on its sales (file "04-2010.csv")
 
 Solution: 
 - Based on the analysis
@@ -30,7 +39,6 @@ Result :
 Each quartier 
 
 *** For 2010
+Done 
 
-
-NewsPapers:
-https://uu.diva-portal.org/smash/get/diva2:1714410/FULLTEXT01.pdf
+pass: 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
