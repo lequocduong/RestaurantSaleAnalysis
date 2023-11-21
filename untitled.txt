@@ -5,16 +5,57 @@ https://uu.diva-portal.org/smash/get/diva2:1714410/FULLTEXT01.pdf
 
 Data input: Sale on a daily basis
 
+Progessing:
+- Dashboard Stack Chart (finishing the dashboard and done)
+- Least selling items (categories and its items)
+--> Proposing the conclusion
+
 Target: 
-Proposer the data visualization
+- An example for showing to Mrs Duyen (chef Restaurant Sake) for obtaining the data in the restaurant (To deal with which problems)
+- Proposer the data visualization  (Dashboard)
+- Convert this dataset into SQL file (Example) -->Data Warehouse (Done) - (Need real-time updates)
 (thinking about how to improve the sale or cost by the machine learning - data analysis) - V-ing
 -> Reducing cost
+- 
+Dashboard :
+- The proportion of categories (Pie chart)
+- Stack chart (The number of Sale (quantities and sale) > 20000)
+
+DashBoard - workflow :
+- Define the uses case and the audience:
++ What's problem this dashboard is trying to solve ?
+ (
+* Finding the best items to stock so as to manage the cashflow 
+--> * Boosting the marketing increasing the sale (depend on the weather - weather infors)
+--> Which kind of weather and which items should be increased for better cashflow
+* Limit the items b'c of its ineffiveness 
+
+)
++ What won't it be useful for ?
++ Who will be the audience of this dashboard ?
+(
+* the purchaser departments, CEO , managers who have backgrounds
+)
++ How will you know if dashboard is a success ?
+(
+* Finding out which items sold most 
+* Items less sold 
+)
+- Find inspiration
++ Has our organization tried to solve this issue in the past ?
+(
+* Unknown - but not
+)
++ Which dashboards are popular with your audience ?
++ How's audience curretly doing without this dashboard ?
+(
+By experience - information all the stockage if less than the threshold and then make an order
+)
 
 
 Restaurant Problems:
-- Optimizing ingredients 
-- Avoid food spoilage 
-- Customer habit (set menu) 
+- Optimizing the cash flows on Items stockage 
+(In February how many should we store for each iteams)
 - Which occassion of the year should we boost for advertising ?
 - Which items are the best-seller ?  (done)
 - Should we concentrate on them more or finding other ways to boost the rest?
@@ -22,23 +63,14 @@ Restaurant Problems:
 Results:
 - Best items sale of month or years (file "Best sold items in 2010.txt")
 - Best items according to its sale (file "Best sold items in 2010.csv")
-- The proportion of monthly sale based on categories (file "Images.png"- PieChart)
+- The proportion of monthly sale (Total sale of Year) based on categories (file "Images.png" - PieChart)
 - The proportion of each items based on its sales (file "04-2010.csv")
 
-Solution: 
-- Based on the analysis
+Restaurant sale data : 
+- Date --> Day-Month-Year
+- Rate --> per unit --> 
+- Total --> Sale Income
 
-Result :
----- Customer habit (set menu) 
-*** For April/2010 (Each month )
-- Best article sale in particular time
-- The proportion of sale on a monthly basis
-- The total income
-- The proportion income out of the year 2010 (10.15%)
-
-Each quartier 
-
-*** For 2010
-Done 
+Note for DATABASE SQL
 
 pass: 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
